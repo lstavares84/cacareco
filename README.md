@@ -18,7 +18,7 @@ Palavras-chaves: ESG; Nextclou; Descentralizad; Armazenagem em Nuvem; Hardware R
 * PCI wifi card;
 
 # :uk:WHAT I HAD TO FIND/BUY? / :brazil:O QUE EU TIVE QUE ENCONTRAR/COMPRAR?
-* Motherboard compatible with this dell enclosure and screen;
+* (BOUGHT with damages) Motherboard compatible with this dell enclosure and screen;
 * Battery
 
 # :uk:WHAT'S NOT WORKING AND STILL SO WHILE THE CLOUD WORKS? / :brazil:O QUE NÃO ESTÁ FUNCIONANDO E CONTINUA ASSIM ENQUANTO A NUVEM FUNCIONA?
