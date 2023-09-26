@@ -7,6 +7,6 @@ Keywords: ESG; Nextcloud; Decentralized; Cloud Storage; Recycled Hardware<br/> <
 <br/> 
 Palavras-chaves: ESG; Nextclou; Descentralizad; Armazenagem em Nuvem; Hardware Reciclado<br/> <br/> 
 
+![trailer_cacareco](https://github.com/lstavares84/cacareco/assets/61010791/1b78deaf-b7e4-4d58-a402-646813418e28)
 
-https://github.com/lstavares84/cacareco/assets/61010791/437afeff-5904-415d-854e-edef2db5ac1b
 
