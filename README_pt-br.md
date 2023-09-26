@@ -17,22 +17,22 @@ Palavras-chaves: ESG; Nextclou; Descentralizad; Armazenagem em Nuvem; Hardware R
 </p>
 
 
-## :brazil:O QUE EU TINHA?
+## O QUE EU TINHA?
 
 * Two WD HDD 1TB each;
 * An Dell XXXX enclosure with (a) screen not working (b) speakers (c) right side USB and P2 port;
 * PCI wifi card;
 
-## :brazil:O QUE EU TIVE QUE ENCONTRAR/COMPRAR?
+## O QUE EU TIVE QUE ENCONTRAR/COMPRAR?
 * (BOUGHT with damages) Motherboard compatible with this dell enclosure and screen;
 * Battery
 
-## :brazil:O QUE NÃO ESTÁ FUNCIONANDO E CONTINUA ASSIM ENQUANTO A NUVEM FUNCIONA?
+## O QUE NÃO ESTÁ FUNCIONANDO E CONTINUA ASSIM ENQUANTO A NUVEM FUNCIONA?
 * Screen is not working, but I used HDMI only once to install server OS;
 * Keyboard connector on Motherboard is broked, but you can use an USB keyboard just to install server OS;
 * Left USB port has a bad function, but silver tape made it works;
 
-## :brazil:PEÇAS EXTRAS QUE EU TIVE QUE ADICIONAR
+## PEÇAS EXTRAS QUE EU TIVE QUE ADICIONAR
 * Raspberry Pi Coper Heat Sinks
 * (BOUGHT) USB FAN extra thin to allow close the notebook and keep it working withou overheating;
 * (BOUGHT) DVD-ROM to SATA HDD Adapter
