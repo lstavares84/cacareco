@@ -1,7 +1,7 @@
 # :uk:ABOUT
 
 <p align="center">
-   <img src="https://github.com/lstavares84/cacareco/assets/61010791/213227fc-7db1-45de-a144-a402145155d8" width="120" height="120">
+   <img src="https://github.com/lstavares84/cacareco/assets/61010791/93789cb8-7a69-42d0-ad58-2dec8156057c" width="564" height="845">
 </p>
 
 :uk: The "CACARECO" project represents an ESG approach to obsolete computers and IT scraps, offering decentralized cloud storage, similar to Google Drive and Microsoft OneDrive but without annual subscription charges. By utilizing recycled or outdated parts from old computers, the project transforms these devices into cloud servers with expandable storage capacity and automatic backup, utilizing the open-source technology of Nextcloud. In addition to reducing the environmental impact of improper disposal of functional computer components, the CACARECO project provides users with a personal, decentralized, private, and cost-effective alternative, promoting freedom of choice. It also encourages the reuse of idle or outdated hardware that would likely be inadequately discarded, thus contributing to a greener and more connected world. <br/> 
